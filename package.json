@@ -1,0 +1,10 @@
+{
+  "name": "meltymixins",
+  "version": "1.0.0",
+  "description": "Mixin tool",
+  "main": "src/index.js",
+  "repository": "https://github.com/meltymoon/meltymixins",
+  "author": "MeltyMoon",
+  "license": "MIT",
+  "private": false
+}
